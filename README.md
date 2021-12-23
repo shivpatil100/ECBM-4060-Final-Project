@@ -1,5 +1,7 @@
 # ECBM-4060-Final-Project
-Implementation of P-NET, a biologically informed deep neural network for prostate cancer discovery
+Implementation of P-NET, a biologically informed deep neural network for prostate cancer discovery.
+
+Project Authors: Shiv Patil, Bruce Bu, Jong Ha Lee, Rafe Batchelor
 
 The original paper by Elmarakeby et al. can be downloaded [here](https://www.nature.com/articles/s41586-021-03922-4).
 

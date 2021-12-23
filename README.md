@@ -8,6 +8,6 @@ The original paper by Elmarakeby et al. can be downloaded [here](https://www.nat
 Instructions for running AutoML:
 1. Download AutoML_Prostate.ipynb. This notebook made to be used in Google Colab.
 2. Follow the code comment instructions. After cloning the PNET repository of Elmarakeby et al., download 'environment01.yml' from this repository and extract prostate cancer genomics data from '_databases' file downloaded [here](https://drive.google.com/u/1/uc?export=download&confirm=dUH2&id=17nssbdUylkyQY1ebtxsIw5UzTAd0zxWb).
-3. Place 'environment01.yml'
+3. Place 'environment01.yml' into the current directory. Additionally, add '_database' folder to current directory/pnet_prostate_paper.
 
 Note: We found that there were bugs in the environment.yml file downloaded when the PNET repository was cloned. Thus, we wrote environment01.yml as a replacement for this yml file.
